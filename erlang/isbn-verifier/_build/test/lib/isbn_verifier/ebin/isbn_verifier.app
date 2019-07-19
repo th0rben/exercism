@@ -1,0 +1,7 @@
+{application,isbn_verifier,
+             [{description,"exercism.io - isbn-verifier"},
+              {vsn,"0.0.1"},
+              {modules,[isbn_verifier]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {env,[]}]}.
